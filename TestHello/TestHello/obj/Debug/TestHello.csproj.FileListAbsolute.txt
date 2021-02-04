@@ -1,0 +1,6 @@
+C:\Users\sivap\Documents\CSSBS\TestHello\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
+C:\Users\sivap\Documents\CSSBS\TestHello\TestHello\bin\Debug\TestHello.exe.config
+C:\Users\sivap\Documents\CSSBS\TestHello\TestHello\bin\Debug\TestHello.exe
+C:\Users\sivap\Documents\CSSBS\TestHello\TestHello\bin\Debug\TestHello.pdb
+C:\Users\sivap\Documents\CSSBS\TestHello\TestHello\obj\Debug\TestHello.exe
+C:\Users\sivap\Documents\CSSBS\TestHello\TestHello\obj\Debug\TestHello.pdb

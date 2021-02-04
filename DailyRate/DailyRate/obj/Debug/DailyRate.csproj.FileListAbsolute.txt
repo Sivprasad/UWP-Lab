@@ -1,0 +1,7 @@
+C:\Users\sivap\Documents\CSSBS\DailyRate\DailyRate\bin\Debug\DailyRate.exe.config
+C:\Users\sivap\Documents\CSSBS\DailyRate\DailyRate\bin\Debug\DailyRate.exe
+C:\Users\sivap\Documents\CSSBS\DailyRate\DailyRate\bin\Debug\DailyRate.pdb
+C:\Users\sivap\Documents\CSSBS\DailyRate\DailyRate\obj\Debug\DailyRate.csprojAssemblyReference.cache
+C:\Users\sivap\Documents\CSSBS\DailyRate\DailyRate\obj\Debug\DailyRate.csproj.CoreCompileInputs.cache
+C:\Users\sivap\Documents\CSSBS\DailyRate\DailyRate\obj\Debug\DailyRate.exe
+C:\Users\sivap\Documents\CSSBS\DailyRate\DailyRate\obj\Debug\DailyRate.pdb
